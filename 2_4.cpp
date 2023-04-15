@@ -65,5 +65,4 @@ Sorted Array (Ascending Order):
 20
 22
 24
-
 */
